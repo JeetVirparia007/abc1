@@ -1,0 +1,1 @@
+export const SignInButton = 'a[href = "#/login"][class="box"]';

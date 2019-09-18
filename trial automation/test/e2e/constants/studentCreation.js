@@ -1,0 +1,14 @@
+export const RegisterButton = 'button[title="Register"]';
+export const clickOnsingleStudentRegistration = '.single-registration-button';
+export const ClickOnmultiRegistration = '.multi-registration-button';
+export const fullname = 'input[name="fullName"]';
+export const username = 'input[name="username"]';
+export const Flag = 'div[class="flag al"]';
+export const telephoneField = 'input[type="tel"]';
+export const EmailField = 'input[id="email"]';
+export const registerbuttonpopup = 'button[class="btn yellow-button-theme btn btn-primary"]';
+export const downloadbutton = 'a[class="btn btn-themed-1"]';
+export const uploadButton = 'label[for="file-upload-2"]';
+export const cancleButton = 'button[class="btn btn-cancel btn btn-primary"]';
+export const crossbutton = 'button[class="close"]';
+export const deleteUploadedCSV = 'i[class="far fa-trash-alt"]';
